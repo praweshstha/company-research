@@ -1,4 +1,5 @@
 # social-media-searcher
 
-this is a chrome extension for one click search of company
-also there is a dedicated social media search feature 
+this is a Chrome extension for one-click search of company details
+
+also, there is a dedicated social media search feature 
