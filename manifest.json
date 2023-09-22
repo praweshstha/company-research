@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Company Search",
+  "description": "Search for various details about a company",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "test16.png",
+      "48": "test48.png",
+      "128": "test128.png"
+    }
+  }
+}
