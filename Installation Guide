@@ -1,0 +1,20 @@
+Company Info Finder
+Company Info Finder is a simple Chrome browser extension that allows users to quickly search for comprehensive information about various companies with just a single click. This tool is ideal for researchers, business professionals, and anyone who needs quick access to company data.
+
+Features
+One-Click Search: Quickly search for company information from multiple sources in one click.
+Customizable Search Options: Choose which sources to include in your search.
+User-Friendly Interface: Simple and intuitive interface for easy use.
+Lightweight and Fast: Minimal impact on browser performance.
+
+Installation
+Download the Extension: Clone or download the repository from GitHub.
+Enable Developer Mode: Toggle the switch in the top-right corner of the page to enable Developer Mode.
+Load Unpacked Extension: Click the "Load unpacked" button and select the folder where you downloaded or cloned the extension.
+Pin the Extension: Click on the puzzle icon in the top-right corner of Chrome, find "Company Info Finder," and pin it for easy access.
+
+Usage
+Open the Extension: Click on the "Company Search" icon in your Chrome toolbar.
+Enter Company Name: Type the name of the company you want to search for.
+Search: CLick on "Full Search" or "Social Media Search" basde on your needs.
+
